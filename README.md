@@ -21,7 +21,7 @@
 
 ## 範例演示
 
-<img src="pic/KLSH.gif" alt="示例GIF" width="600">
+<img src="pic/KLSH.gif" width="600">
 
 ## 執行需求
 
